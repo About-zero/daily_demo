@@ -1,0 +1,17 @@
+.my_swiper {
+    width: 100%;
+    /* 设置容器宽度 */
+    height: 200px;
+    /* 设置容器高度 */
+}
+
+.my_slide {
+    width: calc(100% - 80px);
+    /* 设置轮播项宽度，减去两侧露出的宽度和间隙 */
+    height: 100%;
+    /* 设置轮播项高度 */
+    background-color: #ccc;
+    /* 设置轮播项背景颜色 */
+    border-radius: 10px;
+    /* 设置轮播项圆角 */
+}
