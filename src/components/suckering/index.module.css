@@ -1,0 +1,17 @@
+.stickyBox {
+    width: 100%;
+    height: 200px;
+    background: red;
+}
+
+
+.contentBox {
+    width: 100vw;
+    height: 1000px;
+    background-color: blueviolet;
+}
+
+.stickyStyle {
+    position: fixed;
+    top: 0;
+}
